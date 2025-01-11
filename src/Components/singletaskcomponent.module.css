@@ -1,0 +1,16 @@
+.tasksbox {
+  width: 470px;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  padding: 10px 10px;
+}
+
+.tasks {
+  display: flex;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}

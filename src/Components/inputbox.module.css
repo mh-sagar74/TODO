@@ -1,0 +1,14 @@
+.inputbox {
+  text-align: center;
+  width: 500px;
+  border-radius: 8px;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  margin-bottom: 30px;
+}
+
+.inputboxcontainer {
+  margin-top: 40px;
+}
