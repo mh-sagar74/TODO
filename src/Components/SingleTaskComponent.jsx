@@ -33,6 +33,7 @@ export function SingleTaskComponent({ task, tasks, setTasks }) {
         {task.isEdit ? (
           <span>
             <input
+              className={styles.editInput}
               placeholder={task.todo}
               value={editedInput}
               onChange={(e) => setEditedInput(e.target.value)}
